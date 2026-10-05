@@ -114,10 +114,11 @@ In the case of multiple players ending on the same segment, there are a few tieb
 | Name | How To Watch |
 |:---:|---|
 | <p align="center">AitchKay</p> | <p align="center">[Twitch](https://www.twitch.tv/aitchkay720)</p> |
-| <p align="center">AmazingSpam</p> | <p align="center">[Twitch](https://www.twitch.tv/amazingspam)</p> |
+| <p align="center">BennyTots</p> | <p align="center">[Twitch](https://www.twitch.tv/bennytots)</p> |
 | <p align="center">Bernas52</p> | <p align="center">[Twitch](https://www.twitch.tv/bernas52)</p> |
 | <p align="center">BonusDay</p> | <p align="center">[Twitch](https://www.twitch.tv/bonusday)</p> |
 | <p align="center">Finnifinn747</p> | <p align="center">[Twitch](https://www.twitch.tv/finnifinn747)</p> |
+| <p align="center">ZRBPlays</p> | <p align="center">[Twitch](https://www.twitch.tv/zrbplaystv)</p> |
 | <p align="center">Mason_smw</p> | <p align="center">[Twitch](https://www.twitch.tv/mason_smw)</p> |
 | <p align="center">Porofessor</p> | <p align="center">[Twitch](https://www.twitch.tv/theporofessor)</p> |
 | <p align="center">QP_Marcel</p> | <p align="center">[Twitch](https://www.twitch.tv/qp_marcel)</p> |
@@ -138,20 +139,21 @@ In the case of multiple players ending on the same segment, there are a few tieb
 | Rank | Player | Personal Best (Tiebreakers) | Available Seeds?
 |:---:|---|---|---|
 | 1 | <p align="center">AitchKay</p> | <p align="center"> Lab </p> | <p align="center"> 50 seeds </p> |
-| 2 | <p align="center">AmazingSpam</p> | <p align="center"> Lab </p> | <p align="center"> 50 seeds </p> |
+| 2 | <p align="center">Bennytots</p> | <p align="center"> Lab </p> | <p align="center"> 50 seeds </p> |
 | 3 | <p align="center">Bernas52</p> | <p align="center"> Lab </p> | <p align="center"> 50 seeds </p> |
 | 4 | <p align="center">BonusDay</p> | <p align="center"> Lab </p> | <p align="center"> 50 seeds </p> |
 | 5 | <p align="center">Finnifinn747</p> | <p align="center"> Lab </p> | <p align="center"> 50 seeds </p> |
-| 6 | <p align="center">Mason_smw</p> | <p align="center"> Lab </p> | <p align="center"> 50 seeds </p> |
-| 7 | <p align="center">Porofessor</p> | <p align="center"> Lab </p> | <p align="center"> 50 seeds </p> |
-| 8 | <p align="center">QP_Marcel</p> | <p align="center"> Lab </p> | <p align="center"> 50 seeds </p> |
-| 9 | <p align="center">Reilnur</p> | <p align="center"> Lab </p> | <p align="center"> 50 seeds </p> |
-| 10 | <p align="center">Roxee</p> | <p align="center"> Lab </p> | <p align="center"> 50 seeds </p> |
-| 11 | <p align="center">iAmSlammer</p> | <p align="center"> Lab </p> | <p align="center"> 50 seeds </p> |
-| 11 | <p align="center">UceyChimchar</p> | <p align="center"> Lab </p> | <p align="center"> 50 seeds </p> |
-| 13 | <p align="center">UnrealPapa</p> | <p align="center"> Lab </p> | <p align="center"> 50 seeds </p> |
-| 14 | <p align="center">Yukisaka</p> | <p align="center"> Lab </p> | <p align="center"> 50 seeds </p> |
-| 15 | <p align="center">ZogaOak</p> | <p align="center"> Lab </p> | <p align="center"> 50 seeds </p> |
+| 6 | <p align="center">ZRBPlays</p> | <p align="center"> Lab </p> | <p align="center"> 50 seeds </p> |
+| 7 | <p align="center">Mason_smw</p> | <p align="center"> Lab </p> | <p align="center"> 50 seeds </p> |
+| 8 | <p align="center">Porofessor</p> | <p align="center"> Lab </p> | <p align="center"> 50 seeds </p> |
+| 9 | <p align="center">QP_Marcel</p> | <p align="center"> Lab </p> | <p align="center"> 50 seeds </p> |
+| 10 | <p align="center">Reilnur</p> | <p align="center"> Lab </p> | <p align="center"> 50 seeds </p> |
+| 11 | <p align="center">Roxee</p> | <p align="center"> Lab </p> | <p align="center"> 50 seeds </p> |
+| 12 | <p align="center">iAmSlammer</p> | <p align="center"> Lab </p> | <p align="center"> 50 seeds </p> |
+| 13 | <p align="center">UceyChimchar</p> | <p align="center"> Lab </p> | <p align="center"> 50 seeds </p> |
+| 14 | <p align="center">UnrealPapa</p> | <p align="center"> Lab </p> | <p align="center"> 50 seeds </p> |
+| 15 | <p align="center">Yukisaka</p> | <p align="center"> Lab </p> | <p align="center"> 50 seeds </p> |
+| 16 | <p align="center">ZogaOak</p> | <p align="center"> Lab </p> | <p align="center"> 50 seeds </p> |
 
 ---
 
