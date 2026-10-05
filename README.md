@@ -8,7 +8,7 @@ Welcome to Roguemon Rivals 2026 Fall Brawl Community Tournament! This open commu
 
 **If this is your first time playing Roguemon Rivals, more information on how to draft, how to pivot, and how to score your runs can be found on the original rules page ([OG Rules Page](https://github.com/ThePorofessor/Roguemon-Rivals/tree/main)).**
 
-![Bug Notice](Resources/Disclaimer1.PNG)
+![Bug Notice](Resources/Disclaimer1.png)
 
 ---
 
