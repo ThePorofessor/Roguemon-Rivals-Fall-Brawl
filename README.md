@@ -139,7 +139,7 @@ In the case of multiple players ending on the same segment, there are a few tieb
 | Rank | Player | Personal Best (Tiebreakers) | Available Seeds?
 |:---:|---|---|---|
 | 1 | <p align="center">QP_Marcel</p> | <p align="center"> Cycling Road (5/21 Trainers) </p> | <p align="center"> 44 seeds </p> |
-| 2 | <p align="center">ZogaOak</p> | <p align="center"> Game Corner ( </p> | <p align="center"> 45 seeds </p> |
+| 2 | <p align="center">ZogaOak</p> | <p align="center"> Game Corner (11/13 Trainers) </p> | <p align="center"> 45 seeds </p> |
 | 3 | <p align="center">Reilnur</p> | <p align="center"> Route 8 (Ongoing) </p> | <p align="center"> 26 seeds </p> |
 | 4 | <p align="center">AitchKay</p> | <p align="center"> Misty (4/6 Pokemon) </p> | <p align="center"> 25 seeds </p> |
 | 5 | <p align="center">BonusDay</p> | <p align="center"> Brock (3/6 Pokemon) </p> | <p align="center"> 29 seeds </p> |
