@@ -31,7 +31,7 @@ At the start of each round all participants will vote on universal picks that al
 
 ### <p align="center">Drafting Phase Reference</p>
 
-![Drafting Order Reference](Resources/DraftingOrder1.PNG)
+![Drafting Order Reference](Resources/DraftingOrder2.PNG)
 
 <h1 align="center">PIVOTING GUIDELINES</h1>
 
