@@ -138,23 +138,24 @@ In the case of multiple players ending on the same segment, there are a few tieb
 
 | Rank | Player | Personal Best (Tiebreakers) | Available Seeds?
 |:---:|---|---|---|
-| 1 | <p align="center">Reilnur</p> | <p align="center"> Lorelei (5/6 Pokemon) </p> | <p align="center"> 3 seeds </p> |
-| 2 | <p align="center">QP_Marcel</p> | <p align="center"> Gio (1/6 Pokemon) </p> | <p align="center"> 0 seeds </p> |
-| 3 | <p align="center">UceyChimchar</p> | <p align="center"> Sabrina (5/6 Pokemon) </p> | <p align="center"> 20 seeds </p> |
-| 4 | <p align="center">ZRBPlays</p> | <p align="center"> Silph Co (8/32 Trainers) </p> | <p align="center"> 0 seeds </p> |
-| 5 | <p align="center">ZogaOak</p> | <p align="center"> Koga (3/6 Pokemon) </p> | <p align="center"> 19 seeds </p> |
-| 6 | <p align="center">Bennytots</p> | <p align="center"> Koga (Ongoing) </p> | <p align="center"> 47 seeds </p> |
-| 7 | <p align="center">Bernas52</p> | <p align="center"> Cycling Road (18/19 Trainers) </p> | <p align="center"> 0 seeds </p> |
-| 8 | <p align="center">Porofessor</p> | <p align="center"> Game Corner (The Door...) </p> | <p align="center"> 35 seeds </p> |
+| 1 | <p align="center">QP_Marcel</p> | <p align="center"> Victory Road (0/12 Trainers) </p> | <p align="center"> 23 seeds </p> |
+| 2 | <p align="center">ZRBPlays</p> | <p align="center"> Silph Co (20/32 Trainers) </p> | <p align="center"> 43 seeds </p> |
+| 3 | <p align="center">Reilnur</p> | <p align="center"> Route 6 & 11 (Ongoing) </p> | <p align="center"> 34 seeds </p> |
+| 4 | <p align="center">UceyChimchar</p> | <p align="center"> Route 3 (7/8 Trainers) </p> | <p align="center"> 30 seeds </p> |
 | --- | <p align="center">---</p> | <p align="center">---</p> | <p align="center">---</p> |
-| 9 | <p align="center">BonusDay</p> | <p align="center"> Erika (0/6 Pokemon) </p> | <p align="center"> 0 seeds </p> |
-| 10 | <p align="center">AitchKay</p> | <p align="center"> Misty (4/6 Pokemon) </p> | <p align="center"> 25 seeds </p> |
-| 11 | <p align="center">Yukisaka</p> | <p align="center"> Route 24 & 25 (7/16 Trainers) </p> | <p align="center"> 0 seeds </p> |
-| 12 | <p align="center">UnrealPapa</p> | <p align="center"> Rival 3 (1/4 Pokemon) </p> | <p align="center"> 0 seeds </p> |
-| 13 | <p align="center">Finnifinn747</p> | <p align="center"> Mt Moon (3/12 Trainers) </p> | <p align="center"> 19 seeds </p> |
-| 14 | <p align="center">iAmSlammer</p> | <p align="center"> Brock (5/6 Pokemon) </p> | <p align="center"> 27 seeds </p> |
-| 15 | <p align="center">Mason_smw</p> | <p align="center"> Lab </p> | <p align="center"> 50 seeds </p> |
-| 16 | <p align="center">Roxee</p> | <p align="center"> Lab </p> | <p align="center"> 50 seeds </p> |
+| 5 | <p align="center">ZogaOak</p> | <p align="center"> Brock (2/6 Pokemon) </p> | <p align="center"> 34 seeds </p> |
+| 6 | <p align="center">Bennytots</p> | <p align="center"> Lab </p> | <p align="center"> 50 seeds </p> |
+| 7 | <p align="center">Bernas52</p> | <p align="center"> Lab </p> | <p align="center"> 50 seeds </p> |
+| 8 | <p align="center">Porofessor</p> | <p align="center"> Lab </p> | <p align="center"> 50 seeds </p> |
+| --- | <p align="center">---</p> | <p align="center">---</p> | <p align="center">---</p> |
+| 9 | <p align="center">BonusDay</p> | <p align="center"> Eliminated Round 1 </p> | <p align="center"> ----- </p> |
+| 10 | <p align="center">AitchKay</p> | <p align="center"> Eliminated Round 1 </p> | <p align="center"> ----- </p> |
+| 11 | <p align="center">Yukisaka</p> | <p align="center"> Eliminated Round 1 </p> | <p align="center"> ----- </p> |
+| 12 | <p align="center">UnrealPapa</p> | <p align="center"> Eliminated Round 1 </p> | <p align="center"> ----- </p> |
+| 13 | <p align="center">Finnifinn747</p> | <p align="center"> Eliminated Round 1 </p> | <p align="center"> ----- </p> |
+| 14 | <p align="center">iAmSlammer</p> | <p align="center"> Eliminated Round 1 </p> | <p align="center"> ----- </p> |
+| 15 | <p align="center">Mason_smw</p> | <p align="center"> Eliminated Round 1 </p> | <p align="center"> ----- </p> |
+| 16 | <p align="center">Roxee</p> | <p align="center"> Eliminated Round 1 </p> | <p align="center"> ----- </p> |
 
 
 ---
