@@ -138,10 +138,10 @@ In the case of multiple players ending on the same segment, there are a few tieb
 
 | Rank | Player | Personal Best (Tiebreakers) | Available Seeds?
 |:---:|---|---|---|
-| 1 | <p align="center">QP_Marcel</p> | <p align="center"> Victory Road (0/12 Trainers) </p> | <p align="center"> 0 seeds </p> |
-| 5 | <p align="center">ZogaOak</p> | <p align="center"> Gio (5/6 Pokemon) </p> | <p align="center"> 33 seeds </p> |
-| 2 | <p align="center">ZRBPlays</p> | <p align="center"> Blaine (3/8 Trainers) </p> | <p align="center"> 0 seeds </p> |
-| 4 | <p align="center">UceyChimchar</p> | <p align="center"> Silph Co (Ongoing) </p> | <p align="center"> ? seeds </p> |
+| 1 | <p align="center">UceyChimchar</p> | <p align="center"> Victory Road (Ongoing) </p> | <p align="center"> 10 seeds </p> |
+| 2 | <p align="center">QP_Marcel</p> | <p align="center"> Victory Road (0/12 Trainers) </p> | <p align="center"> 0 seeds </p> |
+| 3 | <p align="center">ZogaOak</p> | <p align="center"> Gio (5/6 Pokemon) </p> | <p align="center"> 33 seeds </p> |
+| 4 | <p align="center">ZRBPlays</p> | <p align="center"> Blaine (3/8 Trainers) </p> | <p align="center"> 0 seeds </p> |
 | --- | <p align="center">---</p> | <p align="center">---</p> | <p align="center">---</p> |
 | 5 | <p align="center">Reilnur</p> | <p align="center"> Erika (5/6 Pokemon) </p> | <p align="center"> 0 seeds </p> |
 | 6 | <p align="center">Bernas52</p> | <p align="center"> Erika (1/6 Pokemon) </p> | <p align="center"> 0 seeds </p> |
