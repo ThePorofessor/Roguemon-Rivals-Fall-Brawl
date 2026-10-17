@@ -138,8 +138,8 @@ In the case of multiple players ending on the same segment, there are a few tieb
 
 | Rank | Player | Personal Best (Tiebreakers) | Available Seeds?
 |:---:|---|---|---|
-| 1 | <p align="center">QP_Marcel</p> | <p align="center"> Victory Road (0/12 Trainers) </p> | <p align="center"> 23 seeds </p> |
-| 2 | <p align="center">ZRBPlays</p> | <p align="center"> Route 21 & Mansion (9/16 Trainers) </p> | <p align="center"> 14 seeds </p> |
+| 1 | <p align="center">QP_Marcel</p> | <p align="center"> Victory Road (0/12 Trainers) </p> | <p align="center"> 0 seeds </p> |
+| 2 | <p align="center">ZRBPlays</p> | <p align="center"> Route 21 & Mansion (9/16 Trainers) </p> | <p align="center"> 0 seeds </p> |
 | 3 | <p align="center">Reilnur</p> | <p align="center"> Erika (5/6 Pokemon) </p> | <p align="center"> 0 seeds </p> |
 | 4 | <p align="center">Bernas52</p> | <p align="center"> Erika (1/6 Pokemon) </p> | <p align="center"> 2 seeds </p> |
 | --- | <p align="center">---</p> | <p align="center">---</p> | <p align="center">---</p> |
