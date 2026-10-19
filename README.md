@@ -14,7 +14,7 @@ Welcome to Roguemon Rivals 2026 Fall Brawl Community Tournament! This open commu
 
 <h1 align="center">HOW TO JOIN</h1>
 
-Join our [Community Discord](https://discord.gg/uutypZMtTk) and emote on the tournament announcement or send me a DM on Discord (ThePorofessor) and I will get you the tournament role! Round 1 officially starts on October 8th, but anyone can join until Round 1 ends (October 13th at 11:59 PM). Once round 1 ends the bottom of the leaderboard will be cut and admission will be closed.
+Join our [Community Discord](https://discord.gg/fMSumzqwXE) and emote on the tournament announcement or send me a DM on Discord (ThePorofessor) and I will get you the tournament role! Round 1 officially starts on October 8th, but anyone can join until Round 1 ends (October 13th at 11:59 PM). Once round 1 ends the bottom of the leaderboard will be cut and admission will be closed.
 
 ---
 <h1 align="center">ROUND OVERVIEW</h1>
