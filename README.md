@@ -143,10 +143,10 @@ In the case of multiple players ending on the same segment, there are a few tieb
 | 3 | <p align="center">Porofessor</p> | <p align="center"> Bruno (5/6 Pokemon) </p> | <p align="center"> 0 seeds </p> |
 | 4 | <p align="center">QP_Marcel</p> | <p align="center"> Victory Road (0/12 Trainers) </p> | <p align="center"> 0 seeds </p> |
 | --- | <p align="center">---</p> | <p align="center">---</p> | <p align="center">---</p> |
-| 4 | <p align="center">ZRBPlays</p> | <p align="center"> Blaine (3/8 Trainers) </p> | <p align="center"> 0 seeds </p> |
-| 5 | <p align="center">Reilnur</p> | <p align="center"> Erika (5/6 Pokemon) </p> | <p align="center"> 0 seeds </p> |
-| 6 | <p align="center">Bernas52</p> | <p align="center"> Erika (1/6 Pokemon) </p> | <p align="center"> 0 seeds </p> |
-| 7 | <p align="center">Bennytots</p> | <p align="center"> Route 6 & 11 (13/17 Trainers)  </p> | <p align="center"> 8 seeds </p> |
+| 5 | <p align="center">ZRBPlays</p> | <p align="center"> Blaine (3/8 Trainers) </p> | <p align="center"> 0 seeds </p> |
+| 6 | <p align="center">Reilnur</p> | <p align="center"> Erika (5/6 Pokemon) </p> | <p align="center"> 0 seeds </p> |
+| 7 | <p align="center">Bernas52</p> | <p align="center"> Erika (1/6 Pokemon) </p> | <p align="center"> 0 seeds </p> |
+| 8 | <p align="center">Bennytots</p> | <p align="center"> Route 6 & 11 (13/17 Trainers)  </p> | <p align="center"> 8 seeds </p> |
 | --- | <p align="center">---</p> | <p align="center">---</p> | <p align="center">---</p> |
 | 9 | <p align="center">BonusDay</p> | <p align="center"> Eliminated Round 1 </p> | <p align="center"> ----- </p> |
 | 10 | <p align="center">AitchKay</p> | <p align="center"> Eliminated Round 1 </p> | <p align="center"> ----- </p> |
