@@ -141,7 +141,7 @@ In the case of multiple players ending on the same segment, there are a few tieb
 | 1 | <p align="center">UceyChimchar</p> | <p align="center"> Lorelei (5/6 Pokemon) </p> | <p align="center"> 44 seeds </p> |
 | 2 | <p align="center">ZogaOak</p> | <p align="center"> Rival 7 (1/6 Pokemon) </p> | <p align="center"> ? seeds </p> |
 | 3 | <p align="center">QP_Marcel</p> | <p align="center"> Sabrina (1/6 Pokemon) </p> | <p align="center"> 25 seeds </p> |
-| 4 | <p align="center">Porofessor</p> | <p align="center"> Route 9 and 10 (Ongoing) </p> | <p align="center"> 46 seeds </p> |
+| 4 | <p align="center">Porofessor</p> | <p align="center"> Rock Tunnel (13/16 Trainers) </p> | <p align="center"> 46 seeds </p> |
 | --- | <p align="center">---</p> | <p align="center">---</p> | <p align="center">---</p> |
 | 5 | <p align="center">ZRBPlays</p> | <p align="center"> Eliminated Round 2 </p> | <p align="center"> ----- </p> |
 | 6 | <p align="center">Reilnur</p> | <p align="center"> Eliminated Round 2 </p> | <p align="center"> ----- </p> |
