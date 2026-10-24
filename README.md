@@ -138,15 +138,15 @@ In the case of multiple players ending on the same segment, there are a few tieb
 
 | Rank | Player | Personal Best (Tiebreakers) | Available Seeds?
 |:---:|---|---|---|
-| 1 | <p align="center">ZogaOak</p> | <p align="center"> Champ (1/6) </p> | <p align="center"> 33 seeds </p> |
-| 2 | <p align="center">UceyChimchar</p> | <p align="center"> Agatha (3/6 Pokemon) </p> | <p align="center"> 0 seeds </p> |
-| 3 | <p align="center">Porofessor</p> | <p align="center"> Bruno (5/6 Pokemon) </p> | <p align="center"> 0 seeds </p> |
-| 4 | <p align="center">QP_Marcel</p> | <p align="center"> Victory Road (0/12 Trainers) </p> | <p align="center"> 0 seeds </p> |
+| 1 | <p align="center">ZogaOak</p> | <p align="center"> Rival 7 (?/6 Pokemon) </p> | <p align="center"> ? seeds </p> |
+| 2 | <p align="center">UceyChimchar</p> | <p align="center"> Lorelei (?/6 Pokemon) </p> | <p align="center"> ? seeds </p> |
+| 3 | <p align="center">Porofessor</p> | <p align="center">  (?/6 Pokemon) </p> | <p align="center"> ? seeds </p> |
+| 4 | <p align="center">QP_Marcel</p> | <p align="center"> Sabrina (?/6 Pokemon) </p> | <p align="center"> ? seeds </p> |
 | --- | <p align="center">---</p> | <p align="center">---</p> | <p align="center">---</p> |
-| 5 | <p align="center">ZRBPlays</p> | <p align="center"> Blaine (3/8 Trainers) </p> | <p align="center"> 0 seeds </p> |
-| 6 | <p align="center">Reilnur</p> | <p align="center"> Erika (5/6 Pokemon) </p> | <p align="center"> 0 seeds </p> |
-| 7 | <p align="center">Bernas52</p> | <p align="center"> Erika (1/6 Pokemon) </p> | <p align="center"> 0 seeds </p> |
-| 8 | <p align="center">Bennytots</p> | <p align="center"> Route 6 & 11 (13/17 Trainers)  </p> | <p align="center"> 8 seeds </p> |
+| 5 | <p align="center">ZRBPlays</p> | <p align="center"> Eliminated Round 2 </p> | <p align="center"> ----- </p> |
+| 6 | <p align="center">Reilnur</p> | <p align="center"> Eliminated Round 2 </p> | <p align="center"> ----- </p> |
+| 7 | <p align="center">Bernas52</p> | <p align="center"> Eliminated Round 2 </p> | <p align="center"> ----- </p> |
+| 8 | <p align="center">Bennytots</p> | <p align="center"> Eliminated Round 2  </p> | <p align="center">----- </p> |
 | --- | <p align="center">---</p> | <p align="center">---</p> | <p align="center">---</p> |
 | 9 | <p align="center">BonusDay</p> | <p align="center"> Eliminated Round 1 </p> | <p align="center"> ----- </p> |
 | 10 | <p align="center">AitchKay</p> | <p align="center"> Eliminated Round 1 </p> | <p align="center"> ----- </p> |
